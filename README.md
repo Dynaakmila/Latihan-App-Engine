@@ -1,2 +1,2 @@
 # Latihan-App-Engine
-Latihan App engine
+Merupakan latihan sederhana pada Google Cloud Platform Mendeploy aplikasi di App Engine
